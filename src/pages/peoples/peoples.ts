@@ -14,6 +14,9 @@ import { IonicPage, NavController, NavParams } from "ionic-angular";
   templateUrl: "peoples.html"
 })
 export class PeoplesPage {
+
+
+
   public peoples = [
     {
       name: "Luke Skywalker",
